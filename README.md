@@ -1,3 +1,10 @@
+<img width="562" alt="Screenshot 2024-05-21 at 11 17 59 AM" src="https://github.com/astitwa1234/Sentiment-Analysis/assets/116952983/760731a0-45b1-4542-8c21-09c2b5704fb1">
+
+
+
+
+
+
 # Sentiment-Analysis
 The provided code implements a sentiment analysis project using Twitter data. Here's a summary of the project:
 
